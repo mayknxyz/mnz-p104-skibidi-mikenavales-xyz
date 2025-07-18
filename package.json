@@ -61,5 +61,8 @@
 	},
 	"keywords": [
 		"svelte"
-	]
+	],
+	"overrides": {
+		"picomatch": "4.0.3"
+	}
 }

@@ -178,6 +178,12 @@ Please ensure your code adheres to the existing style and that any new features 
 
 ---
 
+## Design Reference from the Old Static Site
+
+- [Design Referece - Images](https://github.com/mayknxyz/mnz-p104-skibidi-mikenavales-xyz/tree/main/src/design-reference-old-site)
+
+---
+
 ## 📄 License
 
 Distributed under the MIT License. See `LICENSE` for more information.
@@ -188,4 +194,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 [@mayknxyz](https://github.com/mayknxyz)
 
-Project Link: [https://github.com/mayknxyz/mayknxyz-mnz-p104-skibidi-mikenavales-xyz](https://github.com/mayknxyz/mayknxyz-mnz-p104-skibidi-mikenavales-xyz)
+Project Link: [https://github.com/mayknxyz/mmnz-p104-skibidi-mikenavales-xyz](https://github.com/mayknxyz/mnz-p104-skibidi-mikenavales-xyz)
